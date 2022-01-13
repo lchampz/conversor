@@ -17,7 +17,7 @@ export default () => {
                 <Card title={'Converta aqui!'}>
                     <Conversor />
                 </Card> 
-             </div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> {/*ignorem isso, estava com preguiça de editar o css XD */}
+             </div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> {/*just ignore it, i was too lazy to edit the css XD*/}
             <a className="copy" href="https://github.com/lchampz" target="_blank">&copy; github/lchampz</a>
         </div>
     )
